@@ -25,7 +25,7 @@
 <a href="https://medium.com/@ashishfrommohania" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@ashishfrommohania" height="30" width="40" /></a>
 <a href="www.leetcode.com/ashishujjwal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ashish_ujjwal" height="30" width="40" /></a>
 <a href="https://medium.com/@ashishfrommohania" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@ashishfrommohania" height="30" width="40" /></a>
-<a href="www.codechef.com/ashish_ujjwal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codechef.svg" alt="ashish_ujjwal" height="30" width="40" /></a>
+<!-- <a href="www.codechef.com/ashish_ujjwal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codechef.svg" alt="ashish_ujjwal" height="30" width="40" /></a> -->
 <a href="https://auth.geeksforgeeks.org/user/ashishfrommohania/practice" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/ashishfrommohania/practice" height="30" width="40" /></a>
 </p>
 
