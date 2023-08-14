@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AshishUjjwal&label=Profile%20views&color=0e75b6&style=flat" alt="AshishUjjwal" /> </p>
 
-<p align="left"> <a href="https://twitter.com/ASHISHUJJW6676" target="blank"><img src="https://img.shields.io/twitter/follow/ASHISHUJJW6676?logo=twitter&style=for-the-badge" alt="ashishujjw6676" /></a> </p>
+<p align="left"> <a href="https://twitter.com/ASHISHUJJW6676" target="blank"><img src="https://img.shields.io/linkedin/follow/ASHISHUJJW6676?logo=linkedin&style=for-the-badge" alt="ashishujjw6676" /></a> </p>
 
 - 🔭 I'm a Third year Computer Science Engineering undergraduate student at the **Ambalika institute of management and technology , Lucknow.** I am a self-learned coding guy, just learning by trial and debugging my code and hovering over many blog and documentation pages.
 
