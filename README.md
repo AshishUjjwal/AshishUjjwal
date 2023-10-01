@@ -12,7 +12,7 @@
 - 🌱 I’m currently learning **DA[Data Analytics] ( Measurement, Collection, Analysis And Reporting Of Data)**
 
 - 👨‍💻 All of my projects are available at [https://github.com/AshishUjjwal](https://github.com/AshishUjjwal)
-- [![An image of @ashishujjwal's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ashishujjwal)](https://holopin.io/@ashishujjwal)
+ [![An image of @ashishujjwal's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ashishujjwal)](https://holopin.io/@ashishujjwal)
 
 - 💬 Ask me about **MERN Stack and Competitive Programming**
 
