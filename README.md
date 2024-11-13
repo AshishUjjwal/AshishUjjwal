@@ -20,7 +20,6 @@
 
 ## GSSoC'24 Badges 🪶
 <div>
-	<img src="https://github.com/user-attachments/assets/72f7fca1-d2fe-4ec9-8dfe-8ea389d6bbea" alt="GirlScript Summer of Code" width="120" />
 	<img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" alt="Explorer Badge" width="100" />
 	<img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/2.png" alt="Adventurer Badge" width="100" />
         <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" alt="Champion Badge" width="100" />
