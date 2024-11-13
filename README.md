@@ -19,13 +19,77 @@
  [![An image of @ashishujjwal's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ashishujjwal)](https://holopin.io/@ashishujjwal)
 
 ## GSSoC'24 Badges 🪶
-<div style='display:flex; align-items:center; gap: 10px;' align='center'>
-<img src="https://raw.githubusercontent.com/girlscript/gssoc-website-new/main/public/badges/postman.png" width="100px" height="100px" />
-  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/1.png" width="100px" height="100px" />
-  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/2.png" width="100px" height="100px" />
-  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/3.png" width="100px" height="100px" />
-  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/4.png" width="100px" height="100px" />
-  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/5.png" width="100px" height="100px" />
+<div align="center">
+  <table>
+    <tr align="center">
+      <td style="border-right: 1px solid #dddddd; padding: 15px;" valign="top" width="50%">
+        <a href="https://gssoc.girlscript.tech/leaderboard">
+	  <br>
+          <img src="https://github.com/user-attachments/assets/72f7fca1-d2fe-4ec9-8dfe-8ea389d6bbea" alt="GirlScript Summer of Code" width="120" />
+          <br>
+          <strong>GirlScript Summer of Code</strong>
+        </a>
+        <br> <br>
+<!-- 	      <a href="https://gssoc.girlscript.tech/leaderboard?year=2024&username=ashishujjwal" target="_blank">Leaderboard Stats</a> -->
+      </td>
+      <td style="padding: 15px;" valign="top" width="50%">
+        <table>
+          <tr align="center">
+            <td style="border-right: 1px solid #dddddd; padding: 10px;" width="120">
+              <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" alt="Explorer Badge" width="100" />
+              <br>
+              <strong>Explorer Badge</strong>
+            </td>
+            <td style="border-right: 1px solid #dddddd; padding: 10px;" width="120">
+              <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/2.png" alt="Adventurer Badge" width="100" />
+              <br>
+              <strong>Adventurer Badge</strong>
+            </td>
+            <td style="padding: 10px;" width="120">
+              <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/3.png" alt="Trailblazer Badge" width="100" />
+              <br>
+              <strong>Trailblazer Badge</strong>
+            </td>
+          </tr>
+          <tr align="center">
+            <td style="border-right: 1px solid #dddddd; padding: 10px;" width="120">
+              <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/4.png" alt="Summit Seeker Badge" width="100" />
+              <br>
+              <strong>Summit Seeker Badge</strong>
+            </td>
+            <td style="border-right: 1px solid #dddddd; padding: 10px;" width="120">
+              <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" alt="Champion Badge" width="100" />
+              <br>
+              <strong>Champion Badge</strong>
+            </td>
+            <td style="border-right: 1px solid #dddddd; padding: 10px;" width="120">
+              <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" alt="Postman Badge" width="100" />
+              <br>
+              <strong>Postman API Expert Badge</strong>
+            </td>
+          </tr>
+	 <tr>
+		 <td style="border-right: 1px solid #dddddd; padding: 10px;" width="120">
+			  <img src="https://raw.githubusercontent.com/GSSoC24/Hack-Web3Conf/refs/heads/main/assets/Hack-Web3Conf%202024%20Badge%20(2).png" width="100px"
+				  height="100px"/>
+			 <br>
+			 <strong>Hack-Web3Conf</strong>
+		 </td>
+		 <td style="border-right: 1px solid #dddddd; padding: 10px;" width="120">
+			 <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Git%20Explorer.png" width="100px" height="100px" />
+			 <br>
+			 <strong>GIT Explorer</strong>
+		 </td>
+		 <td style="border-right: 1px solid #dddddd; padding: 10px;" width="120">
+			  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/6.png" width="105px" height="105px" />
+			 <br>
+			 <strong>Innovator Badge</strong>
+		 </td>
+	 </tr>
+        </table>
+      </td>
+    </tr>
+  </table>
 </div>
 
 <h3 align="left">Connect with me:</h3>
