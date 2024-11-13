@@ -19,7 +19,7 @@
  [![An image of @ashishujjwal's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ashishujjwal)](https://holopin.io/@ashishujjwal)
 
 ## GSSoC'24 Badges 🪶
-<div>
+<div align='center'>
 	<img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" alt="Explorer Badge" width="100" />
 	<img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/2.png" alt="Adventurer Badge" width="100" />
         <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" alt="Champion Badge" width="100" />
