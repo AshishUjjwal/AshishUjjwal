@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://linkedin.com/in/ashish-ujjwal-a9bb03228/" target="blank"><img src="https://img.shields.io/twitter/follow/ASHISHUJJWAL?logo=linkedin&style=for-the-badge" alt="ashishujjwal" /></a> </p>
 <!-- [![An image of @ashishujjwal's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ashishujjwal)](https://holopin.io/@ashishujjwal) -->
-- 🔭 I'm a Third year Computer Science Engineering undergraduate student at the **Dr. APJ Abdul Kalam Technical University, Lucknow.** I am a self-learned coding guy, just learning by trial and debugging my code and hovering over many blog and documentation pages.
+- 🔭 I'm a Computer Science Engineering undergraduate student at the **Dr. APJ Abdul Kalam Technical University, Lucknow.** I am a self-learned coding guy, just learning by trial and debugging my code and hovering over many blog and documentation pages.
 
 - 🌱 I’m currently learning **DA[Data Analytics] ( Measurement, Collection, Analysis And Reporting Of Data)**
 
