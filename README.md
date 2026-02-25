@@ -9,7 +9,7 @@
 <!-- [![An image of @ashishujjwal's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ashishujjwal)](https://holopin.io/@ashishujjwal) -->
 - 🔭 I'm a Computer Science Engineering undergraduate student at the **Dr. APJ Abdul Kalam Technical University, Lucknow.** I am a self-learned coding guy, just learning by trial and debugging my code and hovering over many blog and documentation pages.
 
-- 🌱 I’m currently learning **DA[Data Analytics] ( Measurement, Collection, Analysis And Reporting Of Data)**
+- 🌱 I’m currently working on **AI Agents, Agentic AI [Automation] and Software Development**
 
 - 👨‍💻 All of my projects are available at [https://github.com/AshishUjjwal](https://github.com/AshishUjjwal)
 
