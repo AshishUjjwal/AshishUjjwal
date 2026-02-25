@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/AshishUjjwal](https://github.com/AshishUjjwal)
 
-- 💬 Ask me about **MERN Stack and Competitive Programming**
+- 💬 Connect me for getting work done on **Web Development, APP Development(Android, IOS), Automation(AI Agent and Agentic AI)**
 
 - 📫 How to reach me **<ashishfrommohania@gmail.com>**
  [![An image of @ashishujjwal's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ashishujjwal)](https://holopin.io/@ashishujjwal)
