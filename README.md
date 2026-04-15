@@ -30,7 +30,7 @@
 	<img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/6.png" width="105px" height="105px" />
 </div>
 
-<h3 align="center"><b><u>Connect with me:</u></b></h3>
+## Connect with me:
 
 <p align="center">
   
