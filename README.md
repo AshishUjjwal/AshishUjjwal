@@ -30,27 +30,17 @@
 	<img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/6.png" width="105px" height="105px" />
 </div>
 
-<h3 align="center"><b><u>Connect with me</u></b></h3>
+<h3 align="center"><b><u>Connect with me:</u></b></h3>
 
 <p align="center">
-  <a href="https://linkedin.com/in/ashish-ujjwal-a9bb03228/">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40" />
-  </a>
-  <a href="https://twitter.com/ASHISHUJJW6676">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" width="40" />
-  </a>
-  <a href="https://www.instagram.com/its_king_ashish12345/">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="40" />
-  </a>
-  <a href="https://medium.com/@ashishfrommohania">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" width="40" />
-  </a>
-  <a href="https://www.leetcode.com/ashishujjwal">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="40" />
-  </a>
-  <a href="https://auth.geeksforgeeks.org/user/ashishfrommohania/practice">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" width="40" />
-  </a>
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ashish-ujjwal-a9bb03228/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ASHISHUJJW6676)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/its_king_ashish12345/)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@ashishfrommohania)
+[![LeetCode](https://img.shields.io/badge/LeetCode-F89F1B?style=for-the-badge&logo=leetcode&logoColor=black)](https://www.leetcode.com/ashishujjwal)
+[![GeeksforGeeks](https://img.shields.io/badge/GFG-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/ashishfrommohania/practice)
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
