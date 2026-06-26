@@ -16,7 +16,6 @@
 - 💬 Connect me for getting work done on **Web Development, APP Development(Android, IOS), Automation(AI Agent and Agentic AI)**
 
 - 📫 How to reach me **<ashishfrommohania@gmail.com>**
-  
  [![An image of @ashishujjwal's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ashishujjwal)](https://holopin.io/@ashishujjwal)
 
 ## GSSoC'24 Badges 🪶
