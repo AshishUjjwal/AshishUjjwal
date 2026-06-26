@@ -18,7 +18,7 @@
 - 📫 How to reach me **<ashishfrommohania@gmail.com>**
  [![An image of @ashishujjwal's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ashishujjwal)](https://holopin.io/@ashishujjwal)
 
-## GSSoC'24 Badges 🪶
+<!-- ## GSSoC'24 Badges 🪶
 <div align='center'>
 	<img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" alt="Explorer Badge" width="100" />
 	<img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/2.png" alt="Adventurer Badge" width="100" />
@@ -28,7 +28,7 @@
 	<img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" alt="Postman Badge" width="100" />
 	<img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Git%20Explorer.png" width="100px" height="100px" />
 	<img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/6.png" width="105px" height="105px" />
-</div>
+</div>  -->
 
 ## Connect with me: 🪶
 
