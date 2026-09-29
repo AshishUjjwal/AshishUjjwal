@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://linkedin.com/in/ashish-ujjwal-a9bb03228/" target="blank"><img src="https://img.shields.io/twitter/follow/ASHISHUJJWAL?logo=linkedin&style=for-the-badge" alt="ashishujjwal" /></a> </p>
 <!-- [![An image of @ashishujjwal's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ashishujjwal)](https://holopin.io/@ashishujjwal) -->
-## 👨‍💻 About Me
+🔭 👨‍💻 About Me
 
 **Full-Stack Developer | AI Engineer | 2+ Years of Experience**
 
@@ -15,14 +15,10 @@ I build **scalable, production-ready web applications, backend systems, and AI-p
 
 My technical experience spans **MERN Stack, Java, Spring Boot, Python, AI/GenAI, REST APIs, databases, authentication, and cloud technologies**. I enjoy designing robust backend services, integrating APIs, developing intelligent applications, and transforming ideas into reliable real-world products.
 
-I’m a self-driven developer who learns by **building, debugging, experimenting, and continuously exploring modern technologies and engineering best practices**.
-
 > **Build. Break. Debug. Learn. Improve. 🚀**
 
 - 🌱 I’m currently working on **AI Agents, Agentic AI [Automation] and Software Development**
-
 - 👨‍💻 All of my projects are available at [https://github.com/AshishUjjwal](https://github.com/AshishUjjwal)
-
 - 💬 Connect me for getting work done on **Web Development, APP Development(Android, IOS), Automation(AI Agent and Agentic AI)**
 
 - 📫 How to reach me **<ashishfrommohania@gmail.com>**
