@@ -7,7 +7,17 @@
 
 <p align="left"> <a href="https://linkedin.com/in/ashish-ujjwal-a9bb03228/" target="blank"><img src="https://img.shields.io/twitter/follow/ASHISHUJJWAL?logo=linkedin&style=for-the-badge" alt="ashishujjwal" /></a> </p>
 <!-- [![An image of @ashishujjwal's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ashishujjwal)](https://holopin.io/@ashishujjwal) -->
-- 🔭 I'm a Computer Science Engineering undergraduate student at the **Dr. APJ Abdul Kalam Technical University, Lucknow.** I am a self-learned coding guy, just learning by trial and debugging my code and hovering over many blog and documentation pages.
+## 👨‍💻 About Me
+
+**Full-Stack Developer | AI Engineer | 2+ Years of Experience**
+
+I build **scalable, production-ready web applications, backend systems, and AI-powered solutions** with a strong focus on clean architecture, performance, security, and maintainable code.
+
+My technical experience spans **MERN Stack, Java, Spring Boot, Python, AI/GenAI, REST APIs, databases, authentication, and cloud technologies**. I enjoy designing robust backend services, integrating APIs, developing intelligent applications, and transforming ideas into reliable real-world products.
+
+I’m a self-driven developer who learns by **building, debugging, experimenting, and continuously exploring modern technologies and engineering best practices**.
+
+> **Build. Break. Debug. Learn. Improve. 🚀**
 
 - 🌱 I’m currently working on **AI Agents, Agentic AI [Automation] and Software Development**
 
